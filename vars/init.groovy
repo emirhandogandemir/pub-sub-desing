@@ -1,5 +1,4 @@
 def call(){
-def Myclass= load "src/Main"
-    print()
+sh "echo hello world"
 
 }
